@@ -10,12 +10,12 @@ url: "https://projectpages.github.io"
 baseurl: "/COVOICE-19"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /COVOICE-19/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  ricardosperes
-project_repository: project-pages
-disqus_shortname: project-pages
+project_repository: COVOICE-19
+disqus_shortname: COVOICE-19
 g-analytics: UA-75881392-1
 altmetric: true
 
