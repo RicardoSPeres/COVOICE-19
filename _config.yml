@@ -11,7 +11,7 @@ baseurl: "/COVOICE-19"
 header-img: img/covoice_bg.png
 headercolor: "#FFFFFF"
 #logo: /COVOICE-19/img/logos/covoice_logo_white.png
-logo: /COVOICE-19/img/logos/covoice_text_logo.png
+logo: /COVOICE-19/img/logos/covoice_square_logo.png
 
 # Tertiary Parameters
 github_username:  ricardosperes
