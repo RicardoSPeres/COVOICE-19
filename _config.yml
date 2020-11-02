@@ -6,9 +6,9 @@ url: "https://ricardosperes.github.io/COVOICE-19"
 # Secondary Parameters
 baseurl: ""
 #baseurl: "/COVOICE-19"
-header-img: /img/covoice_bg.png
+header-img: img/covoice_bg.png
 headercolor: "#FFFFFF"
-logo: /img/logos/covoice_text_logo.png
+logo: img/logos/covoice_text_logo.png
 #logo: /COVOICE-19/img/logos/covoice_square_logo.png
 
 # Tertiary Parameters
