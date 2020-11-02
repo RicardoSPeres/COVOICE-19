@@ -4,8 +4,8 @@ description: "Developing tools to support identification, diagnosis and prognosi
 url: "https://ricardosperes.github.io"
 
 # Secondary Parameters
-baseurl: "/"
-#baseurl: "/COVOICE-19"
+#baseurl: "/"
+baseurl: "/COVOICE-19"
 header-img: img/covoice_bg.png
 headercolor: "#FFFFFF"
 logo: img/logos/covoice_text_logo.png
