@@ -1,14 +1,14 @@
 # Site settings
 title: COVOICE-19 Project
 description: "Developing tools to support identification, diagnosis and prognosis of COVID-19 through AI"
-url: "https://ricardosperes.github.io"
+url: "https://ricardosperes.github.io/COVOICE-19"
 
 # Secondary Parameters
-#baseurl: "/"
-baseurl: "/COVOICE-19"
-header-img: {{base_url}}/img/covoice_bg.png
+baseurl: ""
+#baseurl: "/COVOICE-19"
+header-img: /img/covoice_bg.png
 headercolor: "#FFFFFF"
-logo: {{base_url}}/img/logos/covoice_text_logo.png
+logo: /img/logos/covoice_text_logo.png
 #logo: /COVOICE-19/img/logos/covoice_square_logo.png
 
 # Tertiary Parameters
