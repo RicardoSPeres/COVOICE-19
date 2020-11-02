@@ -7,7 +7,7 @@ url: "https://ricardosperes.github.io"
 baseurl: "/"
 header-img: img/covoice_bg.png
 headercolor: "#FFFFFF"
-logo: /COVOICE-19/img/logos/covoice_text_logo.png
+logo: img/logos/covoice_text_logo.png
 #logo: /COVOICE-19/img/logos/covoice_square_logo.png
 
 # Tertiary Parameters
