@@ -2,7 +2,7 @@
 layout:     post
 title:      COVOICE-19 project has been funded!
 author:     Ricardo Silva Peres
-tags: 		post template
+tags: 		news covoice-19
 subtitle:  	Kick-off in January 2021
 category:  project1
 ---
