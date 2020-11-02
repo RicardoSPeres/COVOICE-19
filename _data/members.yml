@@ -1,12 +1,21 @@
 # Members
 
+- name: José Barata
+  role: Principal Investigator
+  img: https://rics.uninova.pt/img/team/jbarata.jpg
+  #github: ricardosperes
+  #gplus: https://plus.google.com/+AhmetCecen-GPlus
+  bio: is a professor at the Department of Electrical Engineering of the Nova University of Lisbon and a senior researcher of the UNINOVA Institute. He has a PhD degree in Robotics and Integrated Manufacturing since 2004 from the Nova University of Lisbon. Dr. Barata has participated in more than 15 International Research projects involving different programmes (NMP, IST, ITEA, ESPRIT).
+  url: http://rics.uninova.pt/
+  visible: true
+
 - name: Ricardo Silva Peres
   role: Co-Principal Investigator / ML Engineer
   img: https://avatars1.githubusercontent.com/u/33847959?s=460&u=467737711e890bc03df786361affeb7d2de2be11&v=4
   github: ricardosperes
   gplus: https://plus.google.com/+AhmetCecen-GPlus
   bio: Ricardo received both his M.Sc. and Ph.D. in Electrical and Computer Engineering from the Nova University of Lisbon in Portugal, specializing in the application of artificial intelligence in smart manufacturing. He is currently an Invited Professor at the same university, integrating the Department of Electrical Engineering of the Faculty of Sciences and Technology. Since 2014, he has been working as a researcher at UNINOVA-CTS, focusing on industrial artificial intelligence, machine learning and cyber-physical systems. 
-  url: http://ricardosperes.github.io/
+  url: http://rics.uninova.pt/
   visible: true
 
 - name: Ahmet Cecen
