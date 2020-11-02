@@ -9,7 +9,7 @@ category:  project1
 <!-- Start Writing Below in Markdown -->
 
 <!--![UNINOVA-CTS](https://www.fct.unl.pt/sites/default/files/logo_cts.png?1435069699)-->
-![UNINOVA-CTS](img/logos/covoice_text_white_logo.png)
+![UNINOVA-CTS](../img/logos/covoice_text_white_logo.png)
 
 # AI 4 COVID-19
 
