@@ -17,6 +17,9 @@ header-img: "img/covoice_bg.png"
 	{% if member.github %} 
 	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
 	{% endif %}
+	{% if member.gscholar %} 
+	<span class="social-share-googleplus"><a href="https://scholar.google.pt/citations?user={{ member.gscholar }}" title="Google Scholar"><img src="{{ "/img/icons/gscholar-icon.png" | prepend: site.baseurl }}" style="height:20px">Scholar</a></span> 
+	{% endif %}
 	{% if member.linkedin %} 
 	<span class="social-share-googleplus"><a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="LinkedIn"><img src="{{ "/img/icons/linkedin-icon.png" | prepend: site.baseurl }}" style="height:20px">LinkedIn</a></span> 
 	{% endif %}
