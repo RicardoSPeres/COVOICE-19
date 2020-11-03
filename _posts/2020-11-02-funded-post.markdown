@@ -11,9 +11,9 @@ category:  project1
 <!--![UNINOVA-CTS](https://www.fct.unl.pt/sites/default/files/logo_cts.png?1435069699)-->
 <!--![COVOICE-19 Logo](https://raw.githubusercontent.com/RicardoSPeres/COVOICE-19/gh-pages/img/logos/covoice_text_white_logo.png)-->
 <p float="left">
-  <img src="https://raw.githubusercontent.com/RicardoSPeres/COVOICE-19/gh-pages/img/logos/covoice_text_white_logo.png" height="75px"> 
-  <img src="https://www.fct.unl.pt/sites/default/files/logo_cts.png?1435069699" height="75px">
-  <img src="/img/logos/chlo-logo.png" height="75px">
+  <img src="https://raw.githubusercontent.com/RicardoSPeres/COVOICE-19/gh-pages/img/logos/covoice_text_white_logo.png" height="75px" hspace="20"> 
+  <img src="https://www.fct.unl.pt/sites/default/files/logo_cts.png?1435069699" height="75px" hspace="20">
+  <img src="/img/logos/chlo-logo.png" height="75px" hspace="20">
 </p>
 
 # AI 4 COVID-19
