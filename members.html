@@ -17,6 +17,9 @@ header-img: "img/covoice_bg.png"
 	{% if member.github %} 
 	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
 	{% endif %}
+	{% if member.linkedin %} 
+	<span class="social-share-googleplus"><a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="LinkedIn"><img src="{{ "/img/icons/linkedin-icon.png" | prepend: site.baseurl }}" style="height:20px">LinkedIn</a></span> 
+	{% endif %}
 	{% if member.gplus %}
 	<span class="social-share-googleplus"><a href="{{ member.gplus }}" title="Google Plus"><img src="{{ "/img/icons/gplus-icon.png" | prepend: site.baseurl }}" style="height:20px">Google Plus</a></span>
 	{% endif %}
@@ -24,6 +27,9 @@ header-img: "img/covoice_bg.png"
 	<span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Plus"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:20px">Website</a></span>
 	{% endif %}
 	
+
+	https://www.linkedin.com/in/ricardosilvaperes/
+
 	</br>
 
 	{% if member.bio %} 
