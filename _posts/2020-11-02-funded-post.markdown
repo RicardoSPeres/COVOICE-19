@@ -7,14 +7,15 @@ subtitle:  	Kick-off in January 2021
 category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
+<!--
+![CHLO Logo](/img/logos/chlo-logo.png)
+![UNINOVA-CTS](https://www.fct.unl.pt/sites/default/files/logo_cts.png?1435069699) 
+![COVOICE-19 Logo](https://raw.githubusercontent.com/RicardoSPeres/COVOICE-19/gh-pages/img/logos/covoice_text_white_logo.png)
+-->
 
-<!--![UNINOVA-CTS](https://www.fct.unl.pt/sites/default/files/logo_cts.png?1435069699)-->
-<!--![COVOICE-19 Logo](https://raw.githubusercontent.com/RicardoSPeres/COVOICE-19/gh-pages/img/logos/covoice_text_white_logo.png)-->
-<p float="left">
-  <img src="https://raw.githubusercontent.com/RicardoSPeres/COVOICE-19/gh-pages/img/logos/covoice_text_white_logo.png" height="75px" hspace="20" vspace="10"> 
-  <img src="https://www.fct.unl.pt/sites/default/files/logo_cts.png?1435069699" height="75px" hspace="20" vspace="10">
-  <img src="/img/logos/chlo-logo.png" height="75px" hspace="20" vspace="10">
-</p>
+<img src="https://raw.githubusercontent.com/RicardoSPeres/COVOICE-19/gh-pages/img/logos/covoice_text_white_logo.png" height="75px" hspace="20" vspace="10"> 
+<img src="https://www.fct.unl.pt/sites/default/files/logo_cts.png?1435069699" height="75px" hspace="20" vspace="10"> 
+<img src="/img/logos/chlo-logo.png" height="75px" hspace="20" vspace="10"> 
 
 # AI 4 COVID-19
 
