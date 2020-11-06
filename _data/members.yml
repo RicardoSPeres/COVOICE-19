@@ -20,6 +20,17 @@
   url: http://rics.uninova.pt/
   visible: true
 
+- name: Clara Capucho
+  role: Otorhinolaryngologist
+  img: /img/dra_clara.PNG
+  #github: ricardosperes
+  #gplus: https://plus.google.com/+AhmetCecen-GPlus
+  #gscholar: lkncqlMAAAAJ&hl
+  #linkedin: ricardosilvaperes
+  bio: Dr. Clara Capucho is an Otorhinolaryngologist and the head of the voice unit at the Egas Moniz Hospital, part of the Occidental Lisbon Hospital Centre.
+  #url: http://rics.uninova.pt/
+  visible: true
+
 - name: Ahmet Cecen
   role: Data Scientist / Materials Informatics
   img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
