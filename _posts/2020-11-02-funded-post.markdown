@@ -19,6 +19,6 @@ category:  project1
 
 # AI 4 COVID-19
 
-The **COVOICE-19** project was funded by the Portuguese Foundation for Science and Technology under the AI 4 COVID-19 call. The project will address the development of Artificial Intelligence tools to assist in the rapid diagnosis and predictive prognosis in the context of the current or future COVID-19 pandemics, being led by **UNINOVA-CTS** and counting with the support of the **Ocidental Lisbon Hospital Center**.
+The **COVOICE-19** project was funded by the Portuguese Foundation for Science and Technology under the AI 4 COVID-19 call. The project will address the development of Artificial Intelligence tools to assist in the rapid diagnosis and predictive prognosis in the context of the current or future COVID-19 pandemics, being led by **UNINOVA-CTS** and counting with the support of the **Occidental Lisbon Hospital Center**.
 
 Official project kick-off will take place in *January 2021*.
